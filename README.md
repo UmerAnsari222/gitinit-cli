@@ -27,3 +27,9 @@
 git clone https://github.com/YOUR_USERNAME/gitinit.git
 cd gitinit
 ```
+
+## 🛠 Build
+
+```bash
+go build -o gitinit
+```
